@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(179, 254, 254);
+}
+h1 {
+    color: brown;
+}
+h2 {
+    color: darkgreen;
+}
+h3 {
+    color: red;
+}
+a:link, a:visited {
+    color: black;
+    text-decoration:none;
+}
+a:link:active, a:visited:active {
+    color: black;
+}
+li {
+    color: rgb(217, 0, 255);
+}
