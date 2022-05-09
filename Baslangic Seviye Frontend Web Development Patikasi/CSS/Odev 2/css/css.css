@@ -1,0 +1,32 @@
+.main {
+    text-align: center;
+    margin:0 5% 0 5%;
+}
+.main2 {
+    margin-top: 2px;
+    font-size: small;
+    display: flex;
+}
+.top {
+    width: 100%;
+    background-color: #EEEEEE;
+    padding-bottom: 15px;
+}
+.left {
+    width: 37%;
+    background-color: #7EE5DA;  
+}
+.center {
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 26%;
+    background-color: #70CCC2;
+}
+.right {
+    width: 37%;
+    background-color: #62B3AA;
+}
+.bottom {
+    font-size: small;
+    margin-top: 20px;
+}
