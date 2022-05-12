@@ -1,0 +1,19 @@
+.card {
+    height: 360px;
+}
+.card-text {
+    font-size: 14px;
+}
+.col-sm-4 {
+    margin: 5px 0px;
+}
+.productHeader {
+    color: rgb(2, 46, 192);
+    text-align: center;
+}
+.price {
+    font-size: 12px;
+}
+h3 {
+    color: #3acfa7df;
+}
